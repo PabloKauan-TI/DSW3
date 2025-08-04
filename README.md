@@ -6,6 +6,8 @@ Este projeto possui:
 
 ---
 
+#Link Para Fotos de Funcionamento e Video: https://drive.google.com/drive/folders/1ItOUsxmWmWwYGEPvNSHORLAC9j186KBJ?usp=sharing
+
 ## ✅ **Pré-requisitos**
 
 - [Node.js](https://nodejs.org/) (v16+)
