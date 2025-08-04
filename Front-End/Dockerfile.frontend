@@ -1,0 +1,10 @@
+# Node para build do Vue
+FROM node:20
+
+WORKDIR /app
+
+COPY . .
+
+RUN npm install
+
+CMD ["npm", "run", "dev", "--", "--host"]
